@@ -1,1 +1,1 @@
-# Security_Onion_IIS_ELSA
+# Security Onion ELSA parser for IIS
